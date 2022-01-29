@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=LoadFile()
-comment1.params=lg
-comment1.target=LoadFile(LandGen)
-comment2.params=e
-comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
-numComments=3
