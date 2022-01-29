@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=health
+comment0.target=Health(int)
+comment1.params=g\ blocksX\ blocksY\ hg
+comment1.target=void\ render(java.awt.Graphics,\ int,\ int,\ Hunger)
+numComments=2

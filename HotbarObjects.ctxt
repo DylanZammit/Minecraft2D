@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HotbarObjects()
+comment1.params=g\ x\ y
+comment1.target=void\ render(java.awt.Graphics,\ int,\ int)
+numComments=2
